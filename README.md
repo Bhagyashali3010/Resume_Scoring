@@ -1,4 +1,4 @@
-Welcome to the Resume Scoring application — an AI-powered tool to evaluate and score resumes based on predefined criteria such as projects, skills, experience, and extra-curricular activities. The application uses Llama for scoring, Gemini for language model-based processing, and a Flask + Streamlit-based interface for easy interaction.
+Welcome to the Resume Scoring application — an AI-powered tool to evaluate and score resumes based on predefined criteria such as projects, skills, experience, and extra-curricular activities. The application uses Llama for scoring, Gemini for language model-based processing, and a Flask + HTML-based interface for easy interaction.
 
 
 📖 Overview
